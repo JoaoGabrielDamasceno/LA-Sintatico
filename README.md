@@ -1,4 +1,4 @@
-<h1> Analisador Léxico Linguagem LA </h1>
+<h1> Analisador Sintático Linguagem LA </h1>
 
 <h2> Membros do Grupo </h2>
 <ol>
@@ -21,7 +21,7 @@ No Netbeans utilizar a ferramenta Clean and Build para o projeto.
 
 <h2> Execução </h2>
 
-O projeto possui o arquivo executável alguma-lexico/target/alguma-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar que deverá ser executado da seguinte forma: 
+O projeto possui o arquivo executável LA-Sintatico/target/LA-Sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar que deverá ser executado da seguinte forma: 
 
 ```
 java -jar arquivo_executavel entrada saida.txt
