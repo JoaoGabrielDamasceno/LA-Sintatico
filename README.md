@@ -36,5 +36,5 @@ Onde:
  
  exemplo: 
  ```
-java -jar C:\Users\joaog\Documents\NetBeansProjects\LA-Sintatico\target\LA-Sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\joaog\Desktop\programa2.txt C:\temp\saida.txt
+java -jar C:\Users\joaog\Documents\NetBeansProjects\LA-Sintatico\target\LA-Sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\joaog\Desktop\programa.txt C:\temp\saida.txt
  ```
