@@ -11,7 +11,7 @@
 <ol>
   <li> Netbeans 12.0 </li>
   <li> JDK 11.0.8 </li>
-  <li> Maven 8 </li>
+  <li> Maven 11 </li>
   <li> ANTLR 4.8 </li>
 </ol>
 
@@ -36,5 +36,5 @@ Onde:
  
  exemplo: 
  ```
-java -jar C:\Users\joaog\Documents\NetBeansProjects\alguma-lexico\target\alguma-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\joaog\Desktop\programa2.txt C:\temp\saida.txt
+java -jar C:\Users\joaog\Documents\NetBeansProjects\LA-Sintatico\target\LA-Sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar C:\Users\joaog\Desktop\programa2.txt C:\temp\saida.txt
  ```
